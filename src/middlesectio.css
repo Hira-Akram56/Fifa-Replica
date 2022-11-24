@@ -1,0 +1,58 @@
+.main
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    position: relative;
+    margin-top: 90px;
+}
+.leftside
+{
+    height: 100vh;
+    width: 25vw;
+    background-color: white;
+ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+    
+}
+.content
+{
+    width: 20vw;
+    font-size:large ;
+    margin-top: 40px;
+
+}
+.rightside
+{
+    position:absolute;
+    height: 100vh;
+    width:75vw ;
+    top: 0;
+    left: 25vw;
+    margin-top: 61px;
+    
+
+}
+.news
+{
+    display: flex;
+    flex-direction:row;
+    /* width: 30vw;
+    height: 13vh; */
+    background-color: white;
+    border-radius: 10px;
+    color:black;
+    margin-left: 30px;
+    /* margin-top: 20px; */
+    /* position: relative; */
+}
+.news img{
+    width: 6vw;
+}
+.news p
+{
+    padding-left: 10px;
+}

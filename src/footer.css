@@ -1,0 +1,62 @@
+div.footer{
+    margin-left:0px;
+    margin-bottom: 0px;
+    background-color:white;
+    width: 1377px;
+    height: 300px;
+    
+    
+}
+.heading{
+    color: blue;
+    padding-top: 90px;
+    padding-right:50PX;
+    font-size:30px ;
+    
+}
+.heading2{
+    color:black;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin-top: 1%;
+
+}
+.para{
+    display: none;
+}
+.mark{
+    color: rgb(87, 84, 84);
+    padding-top: 0px;
+    padding-left: 40px;
+}
+.mar.mar2{
+    padding-top:0px;
+    padding-left: 800px;
+    color:rgb(85, 81, 81);
+}
+.mar2{
+    padding-top:0px;
+    padding-left: 60px;
+    color:rgb(88, 86, 86);
+}
+.visit{
+    color: black;
+    font-size: 20px;
+    margin-left:70px ;
+    margin-top: -60px;
+}
+.heading3{
+    padding-left: 800px;
+    padding-bottom: 0px;
+}
+.pic{
+    width: 150px;
+    height: 60px;
+}
+.footer1{
+  margin-left: 200px;
+   margin-bottom:50px;
+   width:150px;
+   height:0px;
+    
+}

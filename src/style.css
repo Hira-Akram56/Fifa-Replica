@@ -1,0 +1,30 @@
+
+.h1{
+   
+    color: white;
+    font-family: 'Times New Roman';
+
+}
+.p{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: large;
+     color: white;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.More{
+font-family: Verdana;
+color: white;
+font-size: larger;
+margin-left: 31%;
+margin-top: 2%;
+}
+.line{
+    margin-left: 30%;
+    margin-top: -2%;
+    color:rgb(20, 76, 95);
+    font-size: xx-large;
+    font-weight: bolder;
+}
